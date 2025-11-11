@@ -4,7 +4,7 @@ This project demonstrates simple unit testing in React.
 
 ## 🔹 Unit Test Function
 Located in `src/utils/__tests__/math.test.js`  
-- Tests logic for functions like `add()` and `multiply()`.
+- Tests logic for functions like `add()`,`multiply()`,`subtract()`,and `divide()`.
 
 ## 🔹 Unit Test Component
 Located in `src/components/__tests__/Counter.test.jsx`  
